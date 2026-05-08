@@ -1,6 +1,6 @@
 # ICT_MUT_webpage
 updated version of MUT ICT webpage 
-# MUT ICT Department Website
+# MUT ICT Department Webpage
 
 A comprehensive web application for the Mangosuthu University of Technology - Department of Information & Communication Technology. This system provides student registration, login, consultation booking, peer support, and contact management features with Supabase backend integration.
 
